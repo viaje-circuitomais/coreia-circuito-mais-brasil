@@ -1,0 +1,489 @@
+/** CSS breakpoints
+    For Mobile Devices – 320px — 480px.
+    iPads and Tablets – 481px — 768px.
+    Laptops and small screen – 769px — 1024px.
+    Large screens and Desktops – 1025px — 1200px.
+    TV and Extra Large Screens – 1201px and more.
+*/
+
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200;300;400;500;600;700&display=swap");
+
+:root {
+  --white: #ffffff;
+  --white-smoke: #f2f2f2;
+  --floral-white: #fffcf5;
+  --timberwolf: #d3d3d3;
+  --gray: #757575;
+  --davy-gray: #484848;
+  --blue: #1a237e;
+  --dark-blue: #13012a;
+  --black: #000000;
+  --salmon: #dc494a;
+  --font-readex: "Readex Pro", sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--floral-white);
+  font-family: var(--font-readex);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal img {
+  margin-bottom: 2em;
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 0 auto;
+  padding: 2em;
+  border-radius: 4px;
+  border: 1px solid #888;
+  width: 80%;
+  height: 80%;
+  overflow-y: scroll;
+}
+
+.modal-body {
+  margin: 1.5em 0;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.modal-footer {
+  margin-top: 2em;
+}
+
+.close-modal-icon {
+  color: #aaaaaa;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close-modal-icon:hover,
+.close-modal-icon:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+header {
+  position: relative;
+  padding: 45px 58px;
+  background-image: url("./assets/banner.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 72px;
+}
+
+nav button {
+  display: none;
+  border: none;
+  padding: 12px 18px;
+  background-color: var(--white);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.icon {
+  width: 16px;
+  height: 16px;
+}
+
+.menu-options {
+  display: flex;
+  gap: 3em;
+  margin: 1em 0;
+}
+
+.menu-options a {
+  color: var(--white-smoke);
+  font-size: 1.25em;
+}
+
+header > h1 {
+  font-size: 3.5em;
+  color: var(--white-smoke);
+  font-weight: 600;
+  margin: 2.5em 0;
+  width: 10em;
+}
+
+#pacotes {
+  padding: 0 1em;
+  margin-bottom: 60px;
+}
+
+#pacotes .cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25em;
+  place-items: center;
+}
+
+.section-title {
+  font-size: 3em;
+  color: var(--blue);
+  margin-bottom: 34px;
+  font-weight: 800;
+}
+
+.card {
+  width: 100%;
+  max-width: 435px;
+  border-radius: 13px;
+  padding: 32px 28px;
+  background-color: var(--white);
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.12);
+  display: flex;
+  flex-direction: column;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-header img {
+  width: 134px;
+  height: 67px;
+}
+
+.card-header .trip-date {
+  color: var(--salmon);
+  font-weight: 800;
+  font-size: 2em;
+}
+
+.card > img {
+  border-radius: 2px;
+  margin: 18px auto;
+  width: 375px;
+  height: 191px;
+}
+
+.card-body > p {
+  font-weight: 600;
+  color: var(--gray);
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.features > div p {
+  margin: 12px 0;
+  color: var(--davy-gray);
+  font-weight: 400;
+}
+
+.card-footer {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.card-footer .price {
+  color: var(--blue);
+  font-weight: 800;
+  font-size: 2em;
+}
+
+.price-container {
+  margin: 24px 0;
+}
+
+.price-container p:first-child {
+  color: var(--gray);
+  font-weight: 600;
+}
+
+.button-cta {
+  padding: 20px 49px;
+  font-size: 1.4em;
+  background-color: var(--salmon);
+  border: none;
+  border-radius: 13px;
+  color: var(--white-smoke);
+  font-weight: 800;
+  cursor: pointer;
+  margin: 0 auto;
+  width: 75%;
+  max-width: 245px;
+  text-align: center;
+}
+
+#reservas {
+  height: 433px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--blue);
+  gap: 52px;
+  margin-bottom: 75px;
+}
+
+#reservas > p {
+  font-weight: 800;
+  font-size: 4em;
+  text-align: center;
+  color: var(--white-smoke);
+}
+
+#reservas > a {
+  text-decoration: none;
+}
+
+#faq {
+  padding: 0 56px;
+  margin-bottom: 75px;
+}
+
+.questions {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 30px;
+}
+
+.question-container {
+  border-radius: 8px;
+  background-color: var(--white);
+  padding: 24px 30px;
+  box-shadow: 0px 20px 50px 0px rgba(0, 0, 0, 0.12);
+  overflow: hidden;
+}
+
+.question-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.question-header p {
+  font-size: 1.5em;
+  font-weight: 700;
+}
+
+.question-header button {
+  border: none;
+  background-color: transparent;
+  padding: 1em;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.question-answer {
+  border-top: 1px solid transparent;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: none;
+}
+
+.question-answer.open {
+  display: block;
+  border-top: 1px solid var(--timberwolf);
+  margin-top: 2em;
+}
+
+#contato {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 120px 0;
+}
+
+#contato a {
+  padding: 4px 24px;
+}
+
+.contato-left {
+  padding: 3em 0;
+  background-color: var(--salmon);
+  text-align: center;
+  color: var(--white);
+}
+
+.contato-left p:first-of-type {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.contato-left p:not(:first-of-type) {
+  margin: 1em 0;
+}
+
+.contato-right {
+  padding: 0 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1em;
+  height: 120%;
+  transform: translateY(-10%);
+  background-color: var(--white);
+  box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  text-align: center;
+}
+
+.contato-right p,
+.contato-right a {
+  color: var(--blue);
+}
+
+.contato-right .button-cta {
+  margin-top: 0.5em;
+  color: var(--white);
+}
+
+footer {
+  background-color: var(--dark-blue);
+  height: 150px;
+  color: var(--white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  color: var(--white);
+}
+
+/** A partir de Laptop */
+@media screen and (max-width: 1024px) {
+  #contato {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .contato-right {
+    height: 100%;
+    transform: translateY(0%);
+  }
+
+  .contato-right {
+    padding: 2em 0;
+  }
+}
+
+/** Tablet até Laptop */
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  #pacotes .cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/** Até Tablet */
+@media screen and (max-width: 768px) {
+  nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 2em;
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  nav.open {
+    background-color: var(--blue);
+  }
+
+  .menu-options {
+    display: none;
+  }
+
+  .menu-options.open {
+    display: flex;
+    flex-direction: column;
+  }
+
+  nav button {
+    display: block;
+    margin-bottom: 2em;
+  }
+
+  header > h1 {
+    font-size: 2em;
+    margin: 4em 0;
+  }
+
+  #pacotes .cards {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  #reservas > p {
+    font-size: 2em;
+  }
+
+  #reservas > a {
+    font-size: 1em;
+  }
+
+  .section-title {
+    font-size: 2.5em;
+    text-align: center;
+  }
+
+  .question-header button {
+    display: none;
+  }
+
+  .question-header p {
+    font-size: 1.1em;
+  }
+}
+
+/** Até Mobile L */
+@media screen and (max-width: 424px) {
+  header > h1 {
+    width: 100%;
+  }
+
+  .contato-left {
+    padding-left: 2em;
+    padding-right: 2em;
+  }
+
+  .contato-right {
+    padding-top: 4em;
+    padding-bottom: 4em;
+  }
+}

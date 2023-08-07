@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Circuito Mais Brasil</title>
+  </head>
+  <link rel="stylesheet" href="style.css" />
+  <script src="app.js" defer></script>
+  <body>
+    <div class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <p>Detalhes do pacote [Nome do Pacote]</p>
+          <span class="close-modal-icon">&times;</span>
+        </div>
+        <div class="modal-body">
+          <img
+            src="assets/templo-modal.webp"
+            alt="imagem de um templo coreano"
+          />
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+            Repudiandae, quibusdam impedit odio ipsa, velit nihil optio non
+            consectetur perspiciatis saepe incidunt dolorem. Saepe, ab porro.
+            Eaque saepe suscipit itaque pariatur. Magnam, ex sit perferendis at,
+            obcaecati quae delectus accusantium a, optio vitae et dignissimos?
+            Officia obcaecati, autem quaerat aut dicta ipsum. Est eligendi
+            numquam minima illum dolore? Explicabo, repellendus iusto? Iure modi
+            earum blanditiis eos ab perspiciatis sapiente. Quidem, omnis!
+            Aperiam officia asperiores ut sed quasi dolore libero, adipisci
+            incidunt cum impedit culpa et repudiandae similique iure illo
+            perspiciatis eum? Sed labore laboriosam ab esse doloribus. Suscipit
+            quasi natus esse cupiditate doloribus quisquam consequatur nesciunt
+            vitae. Accusantium, officia dicta aliquid rerum nostrum delectus
+            totam at? Nisi dolorem natus accusantium possimus? Omnis quis in
+            accusantium provident rem facere laborum corporis aspernatur
+            assumenda voluptatum distinctio praesentium expedita vel non, nemo
+            similique sunt ea delectus iusto possimus, velit est amet. Commodi,
+            rem tenetur? Ducimus impedit laboriosam earum, dolore nulla sequi
+            praesentium fugit veritatis voluptate eaque esse? Illo recusandae,
+            iste laboriosam distinctio voluptatum vero libero sequi iusto
+            aliquid, explicabo deserunt eos eius obcaecati consequatur!
+          </p>
+          <div class="modal-footer">
+            <button type="button" class="button-cta">voltar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <main>
+      <header>
+        <nav>
+          <button type="button" title="Expandir menu">
+            <img
+              class="icon"
+              src="./assets/hamburger.webp"
+              alt="icone do menu"
+            />
+          </button>
+          <div class="menu-options">
+            <a href="#pacotes">Pacotes</a>
+            <a href="#reservas">Reservas</a>
+            <a href="#faq">FAQ</a>
+            <a href="#contato">Contato</a>
+          </div>
+        </nav>
+        <h1>Vivendo a Coreia do Sul com a Circuito Mais Brasil</h1>
+      </header>
+
+      <section id="pacotes">
+        <p class="section-title">Pacotes</p>
+        <div class="cards">
+          <div class="card">
+            <div class="card-header">
+              <p class="trip-date">Abril 2024</p>
+              <img src="./assets/local-pin.webp" alt="local: seoul e busan" />
+            </div>
+            <img
+              src="./assets/templo-card.webp"
+              alt="imagem de um templo coreano"
+            />
+            <div class="card-body">
+              <p>15 diárias</p>
+              <div class="features">
+                <div>
+                  <p>Passagem</p>
+                  <p>Trem bala</p>
+                  <p>Hospedagem</p>
+                </div>
+                <div>
+                  <p>Chip de celular</p>
+                  <p>Guia pt-kr</p>
+                  <p>Visto</p>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer">
+              <div class="price-container">
+                <p>em até</p>
+                <p class="price">10x R$ 1.680,00</p>
+              </div>
+              <button class="button-cta" type="button" onclick="openModal(1)">
+                Saiba mais
+              </button>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <p class="trip-date">Abril 2024</p>
+              <img src="./assets/local-pin.webp" alt="local: seoul e busan" />
+            </div>
+            <img
+              src="./assets/templo-card.webp"
+              alt="imagem de um templo coreano"
+            />
+            <div class="card-body">
+              <p>15 diárias</p>
+              <div class="features">
+                <div>
+                  <p>Passagem</p>
+                  <p>Trem bala</p>
+                  <p>Hospedagem</p>
+                </div>
+                <div>
+                  <p>Chip de celular</p>
+                  <p>Guia pt-kr</p>
+                  <p>Visto</p>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer">
+              <div class="price-container">
+                <p>em até</p>
+                <p class="price">10x R$ 1.680,00</p>
+              </div>
+              <button class="button-cta" type="button" onclick="openModal(2)">
+                Saiba mais
+              </button>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-header">
+              <p class="trip-date">Abril 2024</p>
+              <img src="./assets/local-pin.webp" alt="local: seoul e busan" />
+            </div>
+            <img
+              src="./assets/templo-card.webp"
+              alt="imagem de um templo coreano"
+            />
+            <div class="card-body">
+              <p>15 diárias</p>
+              <div class="features">
+                <div>
+                  <p>Passagem</p>
+                  <p>Trem bala</p>
+                  <p>Hospedagem</p>
+                </div>
+                <div>
+                  <p>Chip de celular</p>
+                  <p>Guia pt-kr</p>
+                  <p>Visto</p>
+                </div>
+              </div>
+            </div>
+            <div class="card-footer">
+              <div class="price-container">
+                <p>em até</p>
+                <p class="price">10x R$ 1.680,00</p>
+              </div>
+              <button class="button-cta" type="button" onclick="openModal(3)">
+                Saiba mais
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="reservas">
+        <p>Já escolheu seu pacote?</p>
+        <a class="button-cta" href="#" target="_blank" rel="external"
+          >Reserve agora</a
+        >
+      </section>
+
+      <section id="faq">
+        <p class="section-title">Perguntas Frequentes (FAQ)</p>
+        <div class="questions">
+          <div class="question-container" id="question-1">
+            <div class="question-header" onclick="toggleQuestion(1)">
+              <p>Tem como fazer alguma coisa errada na coréia?</p>
+              <button type="button">&darr;</button>
+            </div>
+            <div class="question-answer answer-1">
+              <p>
+                This is just a dummy text that has been inserted as a
+                placeholder for future content. While it may seem insignificant
+                at first glance, the use of dummy text is a common practice in
+                the design and publishing industry, as it allows designers and
+                developers to visualize the layout and overall aesthetic of a
+                project without being distracted by the actual content.
+              </p>
+            </div>
+          </div>
+          <div class="question-container" id="question-2">
+            <div class="question-header" onclick="toggleQuestion(2)">
+              <p>Tem como fazer alguma coisa errada na coréia?</p>
+              <button type="button">&darr;</button>
+            </div>
+            <div class="question-answer answer-2">
+              <p>
+                This is just a dummy text that has been inserted as a
+                placeholder for future content. While it may seem insignificant
+                at first glance, the use of dummy text is a common practice in
+                the design and publishing industry, as it allows designers and
+                developers to visualize the layout and overall aesthetic of a
+                project without being distracted by the actual content.
+              </p>
+            </div>
+          </div>
+          <div class="question-container" id="question-3">
+            <div class="question-header" onclick="toggleQuestion(3)">
+              <p>Tem como fazer alguma coisa errada na coréia?</p>
+              <button type="button">&darr;</button>
+            </div>
+            <div class="question-answer answer-3">
+              <p>
+                This is just a dummy text that has been inserted as a
+                placeholder for future content. While it may seem insignificant
+                at first glance, the use of dummy text is a common practice in
+                the design and publishing industry, as it allows designers and
+                developers to visualize the layout and overall aesthetic of a
+                project without being distracted by the actual content.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="contato">
+        <div class="contato-left">
+          <p>Contato</p>
+          <p>tem mais alguma dúvida ou quer fazer um pacote personalizado?</p>
+          <p>Ficaremos muito felizes com seu contato</p>
+        </div>
+        <div class="contato-right">
+          <a href="mailto:contato@circuitomaisbrasil.com" title="Abrir e-mail"
+            >Email: contato@circuitomaisbrasil.com</a
+          >
+          <p>WhatsApp: +55 (19) 99822-4113</p>
+          <a class="button-cta" href="#" target="_blank" rel="external"
+            >Fale agora</a
+          >
+        </div>
+      </section>
+
+      <footer>
+        <a href="https://linktr.ee/CircuitoMaisBr" target="_blank"
+          >&copy; 2023 Circuito Mais Brasil</a
+        >
+      </footer>
+    </main>
+  </body>
+</html>
