@@ -28,3 +28,32 @@ document.querySelector(".modal button").onclick = hideModal;
 document.querySelector(".close-modal-icon").onclick = hideModal;
 
 window.onclick = ({ target }) => target === modal && hideModal();
+
+function scrollToSectionFAQ() {
+  const secaoDestino = document.getElementById("faq");
+  secaoDestino.scrollIntoView({ behavior: "smooth" });
+}
+
+function scrollToSectionPacotes() {
+  const secaoDestino = document.getElementById("pacotes");
+  secaoDestino.scrollIntoView({ behavior: "smooth" });
+}
+
+function scrollToSectionReservas() {
+  const secaoDestino = document.getElementById("reservas");
+  secaoDestino.scrollIntoView({ behavior: "smooth" });
+}
+
+function scrollToSectionContato() {
+  const secaoDestino = document.getElementById("contato");
+  secaoDestino.scrollIntoView({ behavior: "smooth" });
+}
+
+function redirecionarPagina() {
+  var urlDestino = "https://wa.me/5519998224113";
+  window.open(urlDestino, "_blank");
+}
+
+// Event listener para o clique no botão
+const btn = document.getElementById("wpp-link");
+btn.addEventListener("click", redirecionarPagina);
