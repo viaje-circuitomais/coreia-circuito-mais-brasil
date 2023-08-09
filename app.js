@@ -29,25 +29,23 @@ document.querySelector(".close-modal-icon").onclick = hideModal;
 
 window.onclick = ({ target }) => target === modal && hideModal();
 
-function scrollToSectionFAQ() {
-  const secaoDestino = document.getElementById("faq");
-  secaoDestino.scrollIntoView({ behavior: "smooth" });
+function scrollToSection(elementId) {
+  const section = document.getElementById(elementId);
+  section.scrollIntoView({ behavior: "smooth" });
 }
 
-function scrollToSectionPacotes() {
-  const secaoDestino = document.getElementById("pacotes");
-  secaoDestino.scrollIntoView({ behavior: "smooth" });
-}
-
-function scrollToSectionReservas() {
-  const secaoDestino = document.getElementById("reservas");
-  secaoDestino.scrollIntoView({ behavior: "smooth" });
-}
-
-function scrollToSectionContato() {
-  const secaoDestino = document.getElementById("contato");
-  secaoDestino.scrollIntoView({ behavior: "smooth" });
-}
+document.getElementById("contato-link").addEventListener("click", () => {
+  scrollToSection("contato");
+});
+document.getElementById("faq-link").addEventListener("click", () => {
+  scrollToSection("faq");
+});
+document.getElementById("pacotes-link").addEventListener("click", () => {
+  scrollToSection("pacotes");
+});
+document.getElementById("reservas-link").addEventListener("click", () => {
+  scrollToSection("reservas");
+});
 
 function redirecionarPagina() {
   var urlDestino = "https://wa.me/5519998224113";
