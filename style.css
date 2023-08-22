@@ -138,16 +138,8 @@ header > h1 {
   font-size: 3.5em;
   color: var(--white-smoke);
   font-weight: 600;
-  margin: 2.5em 0;
+  margin: 1em 0;
   width: 10em;
-}
-
-header > h3 {
-  font-size: 1.5em;
-  color: var(--white-smoke);
-  font-weight: 300;
-  text-align: left;
-  height: 100px;
 }
 
 #pacotes {
