@@ -5,7 +5,7 @@ const PACOTES = [
     imagem: "assets/templo-modal.webp",
     body: `
     <p>
-            Período de 23/04 à 08/05/2024 - Roteiro 1 <br />
+    <b><i>Período de 23/04 à 08/05/2024 - Roteiro 1</b></i> <br />
             14 diárias <br />
            <b><i>O que está incluído:</i></b> <br/>
             1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia
@@ -52,16 +52,16 @@ const PACOTES = [
 
             Dia 3 (com o guia):<br />
             - Museu Nacional da Coréia;<br />
-            - Visita ao bairro de Myeongdong;<br />
-            - Sauna;<br />
-            - Karaokê (Norebang).<br /><br />
+            - Visita ao bairro de Myeongdong;<br /><br />
 
             Dia 4 (com o guia):<br />
             - Museu da Guerra;<br />
-            - Rio Han com por do sol (sugestão: piquenique).<br /><br />
+            - Rio Han com pôr do sol (sugestão: piquenique).<br /><br />
 
             Dia 5 (com o guia):<br />
-            - Torre Nansam com Observatório e Teleférico.<br /><br />
+            - Torre Nansam com Observatório e Teleférico.<br />
+            - Sauna;<br />
+            - Karaokê (Norebang).<br /><br />
 
             <b>ROTEIRO EM BUSAN</b><br />
             Dia 1 (com o guia):<br />
@@ -74,15 +74,18 @@ const PACOTES = [
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
             3- Translado estação KTX até o hotel/estação KTX com transporte
             público ou táxi;<br />
-            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo em
+            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
             <b><i>Observação: Todos os passeios (Seoul e Busan) serão feitos com
             transporte público ou táxi em grupo de 4 pessoas pagos com o T-money
             que será entregue pela Circuito Mais Brasil.</b></i>
-            <br/><br/>
+            <br/></br>
+            <b>* Forma de Pagamento - Roteiro 1:</b></br>
+            Entrada de R$ 5.000,00 (ou a combinar)</br>
+            Saldo restante à partir de 12x de 1.790,00</br></br>
 
-            Período de 23/04 à 13/05/2024 - Roteiro 2<br/>
+            <b><i>Período de 23/04 à 13/05/2024 - Roteiro 2</b></i><br/>
             19 diárias<br/>
             <b><i>O que está incluído:</i></b> <br/>
             1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia de uma bagagem de mão de 10kg e uma mala despachada de 23kg;<br/>
@@ -113,16 +116,16 @@ const PACOTES = [
 
             Dia 3 (com o guia):<br/>
             - Museu Nacional da Coréia;<br/>
-            - Visita ao bairro de Myeongdong;<br/>
-            - Sauna;<br/>
-            - Karaokê (Norebang).<br/><br/>
+            - Visita ao bairro de Myeongdong;<br/></br>
 
             Dia 4 (com o guia):<br/>
             - Museu da Guerra;<br/>
-            - Rio Han com por do sol (sugestão: piquenique).<br/><br/>
+            - Rio Han com pôr do sol (sugestão: piquenique).<br/></br>
 
             Dia 5 (com o guia):<br/>
-            - Torre Nansam com Observatório e Teleférico.<br/><br/>
+            - Torre Nansam com Observatório e Teleférico.<br/>
+            - Sauna;<br/>
+            - Karaokê (Norebang).<br/><br/>
 
             <b>ROTEIRO EM GYEONGJU</b><br/> 
             Dia 1 (com o guia pelo período de 8 hs)<br/>
@@ -139,7 +142,7 @@ const PACOTES = [
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
             3- Translado estação KTX até o hotel/estação KTX com transporte
             público ou táxi;<br />
-            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo em
+            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
 
@@ -153,6 +156,10 @@ const PACOTES = [
             3- Acompanhamento com Guia Português/ Corean9 por cinco dias pelo período de 6 horas ao dia.<br/><br/>
 
             <b><i>Observação: Todos os passeios (Seoul, Gyeongju, Busan e Jeju) serão feitos com transporte público ou táxi em grupo de 4 pessoas pagos com o T-money que será entregue pela Circuito Mais Brasil.</b></i></br>
+
+            </br><b>* Forma de Pagamento - Roteiro 2:</b></br>
+            Entrada de R$ 5.000,00 (ou a combinar)</br>
+            Saldo restante à partir de 15x de 1.996,00</br></br>
           </p>
           `,
   },
@@ -162,7 +169,7 @@ const PACOTES = [
     imagem: "assets/templo-modal.webp",
     body: `
     <p>
-            Período de 02/10 à 16/10/2024 - Roteiro 1 <br />
+    <b><i>Período de 02/10 à 16/10/2024 - Roteiro 1</b></i> <br />
             14 diárias <br />
            <b><i>O que está incluído:</i></b> <br/>
             1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia
@@ -209,16 +216,16 @@ const PACOTES = [
 
             Dia 3 (com o guia):<br />
             - Museu Nacional da Coréia;<br />
-            - Visita ao bairro de Myeongdong;<br />
-            - Sauna;<br />
-            - Karaokê (Norebang).<br /><br />
+            - Visita ao bairro de Myeongdong;<br /><br />
 
             Dia 4 (com o guia):<br />
             - Museu da Guerra;<br />
-            - Rio Han com por do sol (sugestão: piquenique).<br /><br />
+            - Rio Han com pôr do sol (sugestão: piquenique).<br /><br />
 
             Dia 5 (com o guia):<br />
-            - Torre Nansam com Observatório e Teleférico.<br /><br />
+            - Torre Nansam com Observatório e Teleférico.<br />
+            - Sauna;<br />
+            - Karaokê (Norebang).<br /><br />
 
             <b>ROTEIRO EM BUSAN</b><br />
             Dia 1 (com o guia):<br />
@@ -231,15 +238,18 @@ const PACOTES = [
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
             3- Translado estação KTX até o hotel/estação KTX com transporte
             público ou táxi;<br />
-            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo em
+            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
             <b><i>Observação: Todos os passeios (Seoul e Busan) serão feitos com
             transporte público ou táxi em grupo de 4 pessoas pagos com o T-money
-            que será entregue pela Circuito Mais Brasil.</b></i><br/><br/>
+            que será entregue pela Circuito Mais Brasil.</b></i>
+            <br/></br>
+            <b>* Forma de Pagamento - Roteiro 1:</b></br>
+            Entrada de R$ 5.000,00 (ou a combinar)</br>
+            Saldo restante à partir de 12x de 1.790,00</br></br>
 
-            
-            Período de 02/10 à 24/10/2024 - Roteiro 2<br/>
+            <b><i>Período de 02/10 à 24/10/2024 - Roteiro 2</b></i><br/>
             19 diárias<br/>
             <b><i>O que está incluído:</i></b> <br/>
             1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia de uma bagagem de mão de 10kg e uma mala despachada de 23kg;<br/>
@@ -270,16 +280,16 @@ const PACOTES = [
 
             Dia 3 (com o guia):<br/>
             - Museu Nacional da Coréia;<br/>
-            - Visita ao bairro de Myeongdong;<br/>
-            - Sauna;<br/>
-            - Karaokê (Norebang).<br/><br/>
+            - Visita ao bairro de Myeongdong;<br/></br>
 
             Dia 4 (com o guia):<br/>
             - Museu da Guerra;<br/>
-            - Rio Han com por do sol (sugestão: piquenique).<br/><br/>
+            - Rio Han com pôr do sol (sugestão: piquenique).<br/></br>
 
             Dia 5 (com o guia):<br/>
-            - Torre Nansam com Observatório e Teleférico.<br/><br/>
+            - Torre Nansam com Observatório e Teleférico.<br/>
+            - Sauna;<br/>
+            - Karaokê (Norebang).<br/><br/>
 
             <b>ROTEIRO EM GYEONGJU</b><br/> 
             Dia 1 (com o guia pelo período de 8 hs)<br/>
@@ -296,7 +306,7 @@ const PACOTES = [
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
             3- Translado estação KTX até o hotel/estação KTX com transporte
             público ou táxi;<br />
-            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo em
+            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
 
@@ -311,6 +321,9 @@ const PACOTES = [
 
             <b><i>Observação: Todos os passeios (Seoul, Gyeongju, Busan e Jeju) serão feitos com transporte público ou táxi em grupo de 4 pessoas pagos com o T-money que será entregue pela Circuito Mais Brasil.</b></i></br>
 
+            </br><b>* Forma de Pagamento - Roteiro 2:</b></br>
+            Entrada de R$ 5.000,00 (ou a combinar)</br>
+            Saldo restante à partir de 15x de 1.996,00</br></br>
           </p>
           `,
   },
@@ -320,7 +333,7 @@ const PACOTES = [
     imagem: "assets/templo-modal.webp",
     body: `
     <p>
-            Período de 23/04 à 08/05/2024 - Roteiro 1 <br />
+    <b><i>Período de 03/06 à 18/06/2025 - Roteiro 1 (Retorno do BTS)</b></i> <br />
             14 diárias <br />
            <b><i>O que está incluído:</i></b> <br/>
             1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia
@@ -367,16 +380,16 @@ const PACOTES = [
 
             Dia 3 (com o guia):<br />
             - Museu Nacional da Coréia;<br />
-            - Visita ao bairro de Myeongdong;<br />
-            - Sauna;<br />
-            - Karaokê (Norebang).<br /><br />
+            - Visita ao bairro de Myeongdong;<br /><br />
 
             Dia 4 (com o guia):<br />
             - Museu da Guerra;<br />
-            - Rio Han com por do sol (sugestão: piquenique).<br /><br />
+            - Rio Han com pôr do sol (sugestão: piquenique).<br /><br />
 
             Dia 5 (com o guia):<br />
-            - Torre Nansam com Observatório e Teleférico.<br /><br />
+            - Torre Nansam com Observatório e Teleférico.<br />
+            - Sauna;<br />
+            - Karaokê (Norebang).<br /><br />
 
             <b>ROTEIRO EM BUSAN</b><br />
             Dia 1 (com o guia):<br />
@@ -389,13 +402,17 @@ const PACOTES = [
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
             3- Translado estação KTX até o hotel/estação KTX com transporte
             público ou táxi;<br />
-            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo em
+            4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
             <b><i>Observação: Todos os passeios (Seoul e Busan) serão feitos com
             transporte público ou táxi em grupo de 4 pessoas pagos com o T-money
             que será entregue pela Circuito Mais Brasil.</b></i>
-          </p>
+            <br/></br>
+            <b>* Forma de Pagamento - Roteiro 1:</b></br>
+            Entrada de R$ 5.000,00 (ou a combinar)</br>
+            Saldo restante à partir de 15x de 1.996,00</br></br>
+            </p>
           `,
   },
 ];
