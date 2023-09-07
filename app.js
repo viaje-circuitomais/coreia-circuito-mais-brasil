@@ -39,36 +39,58 @@ const PACOTES = [
             <b>ROTEIRO EM SEOUL</b><br />
             <i>Na Chegada após o Check-in e descanso, às 19:00 horas todos em jantar de confraternização (pagamento à parte)</i><br/>
             Dia 1 (com o guia):<br />
-            - City tour com ônibus hop on hop off;<br />
+            - City tour noturno com ônibus hop on hop off;<br />
             - Praça Gwanghwamun;<br />
             - Museu da Praça (Gwanghwamun);<br />
-            - Riacho Cheongyencheon.<br /><br />
-
-            Dia 2 (com o guia):<br />
             - Palácio Gyeongbokgung; <br />
             - Museu do Palácio Gyeongbokgung;<br />
+            - Riacho Cheongyencheon.<br />
+            * <b>Sugestão</b>, no retorno do City Tour paramos para jantar em uma barraca de rua como a dos doramas, Soyu e Frango Frito.<br />
+            - Retorno ao Hotel<br /><br />
+
+            Dia 2 (com o guia):<br />
             - Palácio Cheongyencheon;<br />
-            - Traje tradicional Coreano (Hambok) básico (penteados e adereços à parte).<br /><br />
+            - Vila Hanok<br />
+            - Templo Jogyesa<br />
+            - Bairro de Insadong, visita à lojas de artesanatos e casas de chás<br />
+            - Retorno ao Hotel<br /><br />
 
             Dia 3 (com o guia):<br />
-            - Museu Nacional da Coréia;<br />
-            - Visita ao bairro de Myeongdong;<br /><br />
+            - Mercado Gwandjang;<br />
+            - DDP DongDeamoon;<br />
+            - Muralha(onde acontecem filmagens de K-Dramas);<br />
+            - Cafeteria (para ver o Pôr do Sol);<br />
+            - Bairro (onde estão localizados vários teatros que atores se apresentam por lá);<br />
+            * <b>Sugestão</b>, podemos jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
             Dia 4 (com o guia):<br />
-            - Museu da Guerra;<br />
-            - Rio Han com pôr do sol (sugestão: piquenique).<br /><br />
+            - Torre Nansam, Observatório e Bondinho.<br />
+            - Bairro de Myeongdong, conheceremos a catedral e a rua das lojas para compras<br />
+            - Bairro de Hongdae (Norebang)<br />
+            * <b>Sugestão</b>, podemos ou não jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
             Dia 5 (com o guia):<br />
-            - Torre Nansam com Observatório e Teleférico.<br />
-            - Sauna;<br />
-            - Karaokê (Norebang).<br /><br />
+            - Vila Swon (onde atores encenam a dança tradiconal do leque)<br />
+            - Rio Han para pôr do sol e piquenique (cada viajante é responsável por sua cesta de guloseimas)<br />
+            - Retorno ao Hotel<br /><br />
+
+            - <b>Nos reuniremos as 7:30 am no saguão do hotel e Partimos cedo para a estação onde pegaremos o KTX com destino a Busan</b></br></br>
 
             <b>ROTEIRO EM BUSAN</b><br />
             Dia 1 (com o guia):<br />
-            - City tour em transporte público.<br />
-            Dia 2: Visita à Gamcheon Culture Village.<br />
-            Dia 3: Check-ou no Hotel e retorno para Seoul.<br /><br />
+            - Teleférico Song do;<br />
+            - Templo na encosta do mar Yongsunjá;<br />
+            - Bondinho na encosta com 4 pessoas ou Bonde coletivo com destino a Praia de Hondae, Rua dos restaurantes, finalizando o dia na Praia com show de drones;<br />
+            - Retorno ao hotel.<br /><br />
 
+            Dia 2 (sem o guia):<br />
+            - Gancheon Culture Village;<br />
+            - Torre Busan;<br />
+            - Cafeteria do pai do Jymmi;<br />
+            - Retorno ao hotel.<br /><br />
+            
             <b>Incluído:</b><br />
             1- Dois dias e duas noite; <br />
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
@@ -76,6 +98,16 @@ const PACOTES = [
             público ou táxi;<br />
             4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
+
+            Dia 3 (sem o guia):<br />
+            - Nos reunimos 7:30 am para Check-out seguindo para a estação do KTX onde partiremos para Gyeongju.<br /><br />
+
+            <b>ROTEIRO EM GYEONGJU</b><br />
+            Dia 1 (sem o guia):<br />
+            - Visita à Tumba dos Reis;<br />
+            - Observatório Cheongseon;<br />
+            - Parque de Palácio e pontes;<br />
+            - Partiu estação KTX para Retorno a Seoul.<br /><br />
 
             <b><i>Observação: Todos os passeios (Seoul e Busan) serão feitos com
             transporte público ou táxi em grupo de 4 pessoas pagos com o T-money
@@ -102,41 +134,59 @@ const PACOTES = [
 
             <b>ROTEIRO EM SEOUL</b><br />
             <i>Na Chegada após o Check-in e descanso, às 19:00 horas todos em jantar de confraternização (pagamento à parte)</i><br/>
-            Dia 1 (com o guia):<br/>
-            - City tour com ônibus hop on hop off;<br/>
-            - Praça Gwanghwamun;<br/>
-            - Museu da Praça (Gwanghwamun);<br/>
-            - Riacho Cheongyencheon.<br/><br/>
+            Dia 1 (com o guia):<br />
+            - City tour noturno com ônibus hop on hop off;<br />
+            - Praça Gwanghwamun;<br />
+            - Museu da Praça (Gwanghwamun);<br />
+            - Palácio Gyeongbokgung; <br />
+            - Museu do Palácio Gyeongbokgung;<br />
+            - Riacho Cheongyencheon.<br />
+            * <b>Sugestão</b>, no retorno do City Tour paramos para jantar em uma barraca de rua como a dos doramas, Soyu e Frango Frito.<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 2 (com o guia):<br/>
-            - Palácio Gyeongbokgung;<br/>
-            - Museu do Palácio Gyeongbokgung;<br/>
-            - Palácio Cheongyencheon;<br/>
-            - Traje tradicional Coreano (Hambok) básico (penteados e adereços à parte).<br/><br/>
+            Dia 2 (com o guia):<br />
+            - Palácio Cheongyencheon;<br />
+            - Vila Hanok<br />
+            - Templo Jogyesa<br />
+            - Bairro de Insadong, visita à lojas de artesanatos e casas de chás<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 3 (com o guia):<br/>
-            - Museu Nacional da Coréia;<br/>
-            - Visita ao bairro de Myeongdong;<br/></br>
+            Dia 3 (com o guia):<br />
+            - Mercado Gwandjang;<br />
+            - DDP DongDeamoon;<br />
+            - Muralha(onde acontecem filmagens de K-Dramas);<br />
+            - Cafeteria (para ver o Pôr do Sol);<br />
+            - Bairro (onde estão localizados vários teatros que atores se apresentam por lá);<br />
+            * <b>Sugestão</b>, podemos jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 4 (com o guia):<br/>
-            - Museu da Guerra;<br/>
-            - Rio Han com pôr do sol (sugestão: piquenique).<br/></br>
+            Dia 4 (com o guia):<br />
+            - Torre Nansam, Observatório e Bondinho.<br />
+            - Bairro de Myeongdong, conheceremos a catedral e a rua das lojas para compras<br />
+            - Bairro de Hongdae (Norebang)<br />
+            * <b>Sugestão</b>, podemos ou não jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 5 (com o guia):<br/>
-            - Torre Nansam com Observatório e Teleférico.<br/>
-            - Sauna;<br/>
-            - Karaokê (Norebang).<br/><br/>
+            Dia 5 (com o guia):<br />
+            - Vila Swon (onde atores encenam a dança tradiconal do leque)<br />
+            - Rio Han para pôr do sol e piquenique (cada viajante é responsável por sua cesta de guloseimas)<br />
+            - Retorno ao Hotel<br /><br />
 
-            <b>ROTEIRO EM GYEONGJU</b><br/> 
-            Dia 1 (com o guia pelo período de 8 hs)<br/>
-            - City tour com transporte público ou táxi em grupo de 4 pessoas pagos com o t-money <br/><br/>
+            - <b>Nos reuniremos as 7:30 am no saguão do hotel e Partimos cedo para a estação onde pegaremos o KTX com destino a Busan</b></br></br>
 
-            <b>ROTEIRO EM BUSAN</b><br/>
-            Dia 1 (com o guia):<br/>
-            - City tour em transporte público ou táxi em grupo de 4 pessoas pagos com o t-money <br/>
-            Dia 2: Visita à Gamcheon Culture Village.<br/>
-            Dia 3: Check-out no Hotel e retorno para Seoul.<br/><br/>
+            <b>ROTEIRO EM BUSAN</b><br />
+            Dia 1 (com o guia):<br />
+            - Teleférico Song do;<br />
+            - Templo na encosta do mar Yongsunjá;<br />
+            - Bondinho na encosta com 4 pessoas ou Bonde coletivo com destino a Praia de Hondae, Rua dos restaurantes, finalizando o dia na Praia com show de drones;<br />
+            - Retorno ao hotel.<br /><br />
 
+            Dia 2 (sem o guia):<br />
+            - Gancheon Culture Village;<br />
+            - Torre Busan;<br />
+            - Cafeteria do pai do Jymmi;<br />
+            - Retorno ao hotel.<br /><br />
+            
             <b>Incluído:</b><br />
             1- Dois dias e duas noite; <br />
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
@@ -145,6 +195,15 @@ const PACOTES = [
             4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
+            Dia 3 (sem o guia):<br />
+            - Nos reunimos 7:30 am para Check-out seguindo para a estação do KTX onde partiremos para Gyeongju.<br /><br />
+
+            <b>ROTEIRO EM GYEONGJU</b><br />
+            Dia 1 (sem o guia):<br />
+            - Visita à Tumba dos Reis;<br />
+            - Observatório Cheongseon;<br />
+            - Parque de Palácio e pontes;<br />
+            - Partiu estação KTX para Retorno a Seoul.<br /><br />
 
             <b>ROTEIRO EM JEJU</b><br/>
 
@@ -203,36 +262,58 @@ const PACOTES = [
             <b>ROTEIRO EM SEOUL</b><br />
             <i>Na Chegada após o Check-in e descanso, às 19:00 horas todos em jantar de confraternização (pagamento à parte)</i><br/>
             Dia 1 (com o guia):<br />
-            - City tour com ônibus hop on hop off;<br />
+            - City tour noturno com ônibus hop on hop off;<br />
             - Praça Gwanghwamun;<br />
             - Museu da Praça (Gwanghwamun);<br />
-            - Riacho Cheongyencheon.<br /><br />
-
-            Dia 2 (com o guia):<br />
             - Palácio Gyeongbokgung; <br />
             - Museu do Palácio Gyeongbokgung;<br />
+            - Riacho Cheongyencheon.<br />
+            * <b>Sugestão</b>, no retorno do City Tour paramos para jantar em uma barraca de rua como a dos doramas, Soyu e Frango Frito.<br />
+            - Retorno ao Hotel<br /><br />
+
+            Dia 2 (com o guia):<br />
             - Palácio Cheongyencheon;<br />
-            - Traje tradicional Coreano (Hambok) básico (penteados e adereços à parte).<br /><br />
+            - Vila Hanok<br />
+            - Templo Jogyesa<br />
+            - Bairro de Insadong, visita à lojas de artesanatos e casas de chás<br />
+            - Retorno ao Hotel<br /><br />
 
             Dia 3 (com o guia):<br />
-            - Museu Nacional da Coréia;<br />
-            - Visita ao bairro de Myeongdong;<br /><br />
+            - Mercado Gwandjang;<br />
+            - DDP DongDeamoon;<br />
+            - Muralha(onde acontecem filmagens de K-Dramas);<br />
+            - Cafeteria (para ver o Pôr do Sol);<br />
+            - Bairro (onde estão localizados vários teatros que atores se apresentam por lá);<br />
+            * <b>Sugestão</b>, podemos jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
             Dia 4 (com o guia):<br />
-            - Museu da Guerra;<br />
-            - Rio Han com pôr do sol (sugestão: piquenique).<br /><br />
+            - Torre Nansam, Observatório e Bondinho.<br />
+            - Bairro de Myeongdong, conheceremos a catedral e a rua das lojas para compras<br />
+            - Bairro de Hongdae (Norebang)<br />
+            * <b>Sugestão</b>, podemos ou não jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
             Dia 5 (com o guia):<br />
-            - Torre Nansam com Observatório e Teleférico.<br />
-            - Sauna;<br />
-            - Karaokê (Norebang).<br /><br />
+            - Vila Swon (onde atores encenam a dança tradiconal do leque)<br />
+            - Rio Han para pôr do sol e piquenique (cada viajante é responsável por sua cesta de guloseimas)<br />
+            - Retorno ao Hotel<br /><br />
+
+            - <b>Nos reuniremos as 7:30 am no saguão do hotel e Partimos cedo para a estação onde pegaremos o KTX com destino a Busan</b></br></br>
 
             <b>ROTEIRO EM BUSAN</b><br />
             Dia 1 (com o guia):<br />
-            - City tour em transporte público.<br />
-            Dia 2: Visita à Gamcheon Culture Village.<br />
-            Dia 3: Check-ou no Hotel e retorno para Seoul.<br /><br />
+            - Teleférico Song do;<br />
+            - Templo na encosta do mar Yongsunjá;<br />
+            - Bondinho na encosta com 4 pessoas ou Bonde coletivo com destino a Praia de Hondae, Rua dos restaurantes, finalizando o dia na Praia com show de drones;<br />
+            - Retorno ao hotel.<br /><br />
 
+            Dia 2 (sem o guia):<br />
+            - Gancheon Culture Village;<br />
+            - Torre Busan;<br />
+            - Cafeteria do pai do Jymmi;<br />
+            - Retorno ao hotel.<br /><br />
+            
             <b>Incluído:</b><br />
             1- Dois dias e duas noite; <br />
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
@@ -240,6 +321,16 @@ const PACOTES = [
             público ou táxi;<br />
             4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
+
+            Dia 3 (sem o guia):<br />
+            - Nos reunimos 7:30 am para Check-out seguindo para a estação do KTX onde partiremos para Gyeongju.<br /><br />
+
+            <b>ROTEIRO EM GYEONGJU</b><br />
+            Dia 1 (sem o guia):<br />
+            - Visita à Tumba dos Reis;<br />
+            - Observatório Cheongseon;<br />
+            - Parque de Palácio e pontes;<br />
+            - Partiu estação KTX para Retorno a Seoul.<br /><br />
 
             <b><i>Observação: Todos os passeios (Seoul e Busan) serão feitos com
             transporte público ou táxi em grupo de 4 pessoas pagos com o T-money
@@ -266,41 +357,59 @@ const PACOTES = [
 
             <b>ROTEIRO EM SEOUL</b><br />
             <i>Na Chegada após o Check-in e descanso, às 19:00 horas todos em jantar de confraternização (pagamento à parte)</i><br/>
-            Dia 1 (com o guia):<br/>
-            - City tour com ônibus hop on hop off;<br/>
-            - Praça Gwanghwamun;<br/>
-            - Museu da Praça (Gwanghwamun);<br/>
-            - Riacho Cheongyencheon.<br/><br/>
+            Dia 1 (com o guia):<br />
+            - City tour noturno com ônibus hop on hop off;<br />
+            - Praça Gwanghwamun;<br />
+            - Museu da Praça (Gwanghwamun);<br />
+            - Palácio Gyeongbokgung; <br />
+            - Museu do Palácio Gyeongbokgung;<br />
+            - Riacho Cheongyencheon.<br />
+            * <b>Sugestão</b>, no retorno do City Tour paramos para jantar em uma barraca de rua como a dos doramas, Soyu e Frango Frito.<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 2 (com o guia):<br/>
-            - Palácio Gyeongbokgung;<br/>
-            - Museu do Palácio Gyeongbokgung;<br/>
-            - Palácio Cheongyencheon;<br/>
-            - Traje tradicional Coreano (Hambok) básico (penteados e adereços à parte).<br/><br/>
+            Dia 2 (com o guia):<br />
+            - Palácio Cheongyencheon;<br />
+            - Vila Hanok<br />
+            - Templo Jogyesa<br />
+            - Bairro de Insadong, visita à lojas de artesanatos e casas de chás<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 3 (com o guia):<br/>
-            - Museu Nacional da Coréia;<br/>
-            - Visita ao bairro de Myeongdong;<br/></br>
+            Dia 3 (com o guia):<br />
+            - Mercado Gwandjang;<br />
+            - DDP DongDeamoon;<br />
+            - Muralha(onde acontecem filmagens de K-Dramas);<br />
+            - Cafeteria (para ver o Pôr do Sol);<br />
+            - Bairro (onde estão localizados vários teatros que atores se apresentam por lá);<br />
+            * <b>Sugestão</b>, podemos jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 4 (com o guia):<br/>
-            - Museu da Guerra;<br/>
-            - Rio Han com pôr do sol (sugestão: piquenique).<br/></br>
+            Dia 4 (com o guia):<br />
+            - Torre Nansam, Observatório e Bondinho.<br />
+            - Bairro de Myeongdong, conheceremos a catedral e a rua das lojas para compras<br />
+            - Bairro de Hongdae (Norebang)<br />
+            * <b>Sugestão</b>, podemos ou não jantar por lá<br />
+            - Retorno ao Hotel<br /><br />
 
-            Dia 5 (com o guia):<br/>
-            - Torre Nansam com Observatório e Teleférico.<br/>
-            - Sauna;<br/>
-            - Karaokê (Norebang).<br/><br/>
+            Dia 5 (com o guia):<br />
+            - Vila Swon (onde atores encenam a dança tradiconal do leque)<br />
+            - Rio Han para pôr do sol e piquenique (cada viajante é responsável por sua cesta de guloseimas)<br />
+            - Retorno ao Hotel<br /><br />
 
-            <b>ROTEIRO EM GYEONGJU</b><br/> 
-            Dia 1 (com o guia pelo período de 8 hs)<br/>
-            - City tour com transporte público ou táxi em grupo de 4 pessoas pagos com o t-money <br/><br/>
+            - <b>Nos reuniremos as 7:30 am no saguão do hotel e Partimos cedo para a estação onde pegaremos o KTX com destino a Busan</b></br></br>
 
-            <b>ROTEIRO EM BUSAN</b><br/>
-            Dia 1 (com o guia):<br/>
-            - City tour em transporte público ou táxi em grupo de 4 pessoas pagos com o t-money <br/>
-            Dia 2: Visita à Gamcheon Culture Village.<br/>
-            Dia 3: Check-out no Hotel e retorno para Seoul.<br/><br/>
+            <b>ROTEIRO EM BUSAN</b><br />
+            Dia 1 (com o guia):<br />
+            - Teleférico Song do;<br />
+            - Templo na encosta do mar Yongsunjá;<br />
+            - Bondinho na encosta com 4 pessoas ou Bonde coletivo com destino a Praia de Hondae, Rua dos restaurantes, finalizando o dia na Praia com show de drones;<br />
+            - Retorno ao hotel.<br /><br />
 
+            Dia 2 (sem o guia):<br />
+            - Gancheon Culture Village;<br />
+            - Torre Busan;<br />
+            - Cafeteria do pai do Jymmi;<br />
+            - Retorno ao hotel.<br /><br />
+            
             <b>Incluído:</b><br />
             1- Dois dias e duas noite; <br />
             2- Acompanhamento de guia por um dia pelo período de 8 horas;<br />
@@ -309,6 +418,15 @@ const PACOTES = [
             4- Hospedagem em hotel categoria 3 estrelas com quarto duplo ou triplo com
             cama de solteiro com café da manhã incluso.<br /><br />
 
+            Dia 3 (sem o guia):<br />
+            - Nos reunimos 7:30 am para Check-out seguindo para a estação do KTX onde partiremos para Gyeongju.<br /><br />
+
+            <b>ROTEIRO EM GYEONGJU</b><br />
+            Dia 1 (sem o guia):<br />
+            - Visita à Tumba dos Reis;<br />
+            - Observatório Cheongseon;<br />
+            - Parque de Palácio e pontes;<br />
+            - Partiu estação KTX para Retorno a Seoul.<br /><br />
 
             <b>ROTEIRO EM JEJU</b><br/>
 
@@ -411,7 +529,7 @@ const PACOTES = [
             <br/></br>
             <b>* Forma de Pagamento - Roteiro 1:</b></br>
             Entrada de R$ 5.000,00 (ou a combinar)</br>
-            Saldo restante à partir de 15x de 1.996,00</br></br>
+            Saldo restante à partir de 15x de 1.790,00</br></br>
             </p>
           `,
   },
