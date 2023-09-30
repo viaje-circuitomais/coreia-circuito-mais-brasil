@@ -605,3 +605,12 @@ function redirecionarPagina() {
 // Event listener para o clique no botão
 const btn = document.getElementById("wpp-link");
 btn.addEventListener("click", redirecionarPagina);
+
+function redirecionarPaginaLinktree() {
+  var urlDestino = "https://wa.me/5519998224113";
+  window.open(urlDestino, "_blank");
+}
+
+// Event listener para o clique no botão
+const btnLinktree = document.getElementById("btn-linktree");
+btnLinktree.addEventListener("click", redirecionarPaginaLinktree);
