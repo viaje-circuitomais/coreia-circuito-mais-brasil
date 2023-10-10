@@ -207,6 +207,56 @@ const PACOTES = [
             </br><b>* Forma de Pagamento - Roteiro 2:</b></br>
             Entrada de R$ 3.000,00</br>
             Saldo restante, fale conosco!</br></br>
+
+            <b><i>Período de 23/04 à 04/05/2024 - Roteiro 3</b></i><br/>
+            13 diárias<br/>
+            <b><i>O que está incluído:</i></b> <br/>
+            1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia de uma bagagem de mão de 10kg e uma mala despachada de 23kg;<br/>
+            2 - Seguro Viagem com cobertura de COVID;<br/>
+            3 - Assessoria de passaporte;<br/>
+            4 - Autorização de entrada no País (K-ETA);<br/>
+            5 - Hospedagem de 10 diárias divididos entre os dois destinos Seoul e Busan;<br/>
+            6 - Em Seoul em Myeongdong Rooftop Hostel;<br/>
+            7 - Em Busan O'Guest & Mini Hotel;
+            Observação: Poderá haver alteração na hospedagem porém dentro das mesmas especificações das hospedagens citadas acima, isso porquê reservamos apenas depois de 50% do pacote pago.<br/>
+            8 - Transporte em ônibus limousine ou metrô DO  aeroporto/hospedagem/aeroporto;<br/>
+            9 - Chip para celular com Internet pelo período de 14 dias;<br/>
+            10 - Ticket para Sauna;<br/>
+            11 - Uma hora de norebang (Karaoke);<br/>
+            12 - Um City tour em ônibus ropon ropoff em Seoul;<br/>
+            13 - Um City tour  em ônibus ropon ropoff em Busan.<br/><br/>
+
+            <b>ROTEIRO EM SEOUL</b><br />
+            <i>Na Chegada após o Check-in e descanso, às 19:00 horas todos em jantar de confraternização (pagamento à parte)</i><br/>
+            1 - Praca Gwanghwamun;<br/>
+            2 - Riacho Cheongyencheon;<br/>
+            3 - Palácio Gyeongbokgung;<br/>
+            4 - Museu do Palácio Gyeongbokgung;<br/>
+            5 - Bairro Gangnam;<br/>
+            6 - Biblioteca Startfield;<br/>
+            7 - Mercado Nandaemun;<br/>
+            8 - Rio Han;<br/>
+            9 - Bairro Myeongdong shopping street;<br/>
+            10 - Bairro Hongdae;<br/>
+            11 - Bairro Itaewon;<br/>
+            12 - Lotte tower World, edifício mais alto da Coreia.<br/><br/>
+
+            <b>ROTEIRO EM BUSAN</b><br />
+            <i>Na Chegada após o Check-in e descanso, às 19:00 horas todos em jantar de confraternização (pagamento à parte)</i><br/>
+            1 - Gancheon Culture Village;<br/>
+            2 - Mangate cafeteria;<br/>
+            3 - Observatório Cheonsapo;<br/>
+            4 - Templo YOUNGGUNGSA;<br/>
+            5 - Praia de Haeundae;<br/>
+            6 - Oryukdo skywalk (Passarela de vidro).<br/><br/>
+
+            <b>Preço Total:</b><br/>
+            Entrada de R$2.000,00 e saldo de R$18.900 reais, podendo ser parcelado 15x em mais de um cartão de crédito, sendo o juros pago pelo viajante;<br/>
+            pix ou boleto bancário porém precisa o valor do pacote estar quitado com 40 dias antes da viagem.<br/><br/>
+
+            <b>Atenção como dito acima são sugestões de lugares a serem visitados, consulte-nos para mais indicações.</b><br/><br/>
+
+            <b><i>Observação: Temos uma guia brasileira especializada que fala português e o idioma coreano fluente pode ser contratada à parte direto conosco ou se o viajante preferir ao chegar poderá contratar uma guia de sua preferência, apenas que a partir daí a responsabilidade é toda dele.</i></b><br/>
           </p>
           `,
   },
