@@ -209,7 +209,7 @@ const PACOTES = [
             Saldo restante, fale conosco!</br></br>
 
             <b><i>Período de 23/04 à 04/05/2024 - Roteiro 3</b></i><br/>
-            13 diárias<br/>
+            10 diárias<br/>
             <b><i>O que está incluído:</i></b> <br/>
             1 - Passagem Aérea GRU/Seoul aeroporto de Incheon/GRU, com franquia de uma bagagem de mão de 10kg e uma mala despachada de 23kg;<br/>
             2 - Seguro Viagem com cobertura de COVID;<br/>
